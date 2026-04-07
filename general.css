@@ -1,0 +1,68 @@
+/* TYPOGRAPHY */
+
+h1{
+  font-family: Space Grotesk, sans-serif;
+  font-weight: 500;
+  font-size: 3.75rem ;
+  max-width: 33.188rem;
+}
+
+h2{
+  font-family: Space Grotesk, sans-serif;
+  font-weight: 500;
+  font-size: 2.5rem;
+  background-color:  #B9FF66 ;
+
+}
+
+
+h3{
+  background-color: #B9FF66;
+  font-size: 1.875rem;
+  font-weight: 500
+  ;
+}
+
+p{
+  font-size: 1.125rem;
+}
+
+.nav-btn{
+  font-size: 1.25rem;
+
+  padding: 20px 35px 20px 35px ;
+  border: 1px solid #191A23;
+  background-color: #fff ;
+  border-radius: 14px;
+}
+
+.hero-btn{
+  font-size: 1.25rem;
+  background-color: #191A23;
+  color: #fff;
+  padding: 20px 35px 20px 35px ;
+  border-radius: 14px;
+  
+
+}
+
+.green{
+  background-color: #B9FF66;
+  color: #191A23;
+}
+
+.top-content{
+  display: flex;
+  gap: 40px
+  ;
+  align-items: center;
+}  
+/* COLORS */
+/*
+ #B9FF66 
+#191A23
+#F3F3F3
+  */
+
+
+
